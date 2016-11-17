@@ -15,9 +15,6 @@
 - [代码](#代码)
 - [轮子](#轮子)
 
- 就不能扫码加群。所以可以先关注我公众号，然后发送 `微信小程序`，按照提示一步一步加群。
-
-![微信小程序交流区群](https://camo.githubusercontent.com/4dfb439531d42a47d29f4153e3d4b7268802bb9a/687474703a2f2f6a7573746a617661632e636f6d2f6173736574732f696d616765732f77656978696e2d6a7573746a617661632e6a7067)
 
 ## 官方文档
 
@@ -172,8 +169,3 @@
 - [微信小程序-美女模特(BeautifulGirl)](https://github.com/liumulin614/BeautifulGirl)
 - [微信小程序 - 知乎仿写(RebeccaHanjw/weapp-wechat-zhihu)](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
 - [微信小程序 - 面包旅行(romoo/weapp-demo-breadtrip)](https://github.com/romoo/weapp-demo-breadtrip)
-
-## 轮子
-
-- [微信小程序倒计时组件(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483670&idx=1&sn=5aa5da2fff2415e9b19f848712ddf480&chksm=e9789904de0f1012159332fda391c3eec0bb3d1c0db2c34ab557208ff0c04806a40d00e844fe&mpshare=1&scene=1&srcid=1007cWRXdd0ug9oAceCsIWp6#rd)
-- [微信小程序下拉筛选组件(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483674&idx=1&sn=2bf242b391144f3f0e57e0ed0ebce36f&chksm=e9789908de0f101ee23f7c125c9a48c4f9ba3f242a3b1c89b05ca5b9e8e68262c02b47fe3d12&mpshare=1&scene=1&srcid=1008NvO9oI8wWGp4XBxlpLeL#rd)
