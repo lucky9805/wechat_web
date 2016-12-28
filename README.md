@@ -169,3 +169,8 @@
 - [微信小程序-美女模特(BeautifulGirl)](https://github.com/liumulin614/BeautifulGirl)
 - [微信小程序 - 知乎仿写(RebeccaHanjw/weapp-wechat-zhihu)](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
 - [微信小程序 - 面包旅行(romoo/weapp-demo-breadtrip)](https://github.com/romoo/weapp-demo-breadtrip)
+- [微信小程序 - 富文本解析(icindy/wxParse)](https://github.com/icindy/wxParse)
+- [微信小程序 - 知晓程序(miniapp)](https://minapp.com/miniapp)
+
+
+
